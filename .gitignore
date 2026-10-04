@@ -1,0 +1,28 @@
+# Created by pytest automatically.
+*
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Frontend
+node_modules/
+.next/
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
